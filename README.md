@@ -8,5 +8,5 @@
           npm install ...
        
     3. Run web-app on local host.
-          node server
+          npm start
     
