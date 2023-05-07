@@ -24,6 +24,7 @@ export const SKILLS = [
   { name: "Python (Basic)", initialRating: 3 },
   { name: "DSA", initialRating: 3 },
   { name: "oops", initialRating: 3 },
+  { name: "DBMS", initialRating: 3 },
   { name: "Html", initialRating: 4 },
   { name: "CSS", initialRating: 4 },
   { name: "JavaScript", initialRating: 4 },
