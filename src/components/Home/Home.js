@@ -20,8 +20,9 @@ function Home() {
               <h1 className="heading-name">
                 I'M
                 <strong className="main-name"> Prasam Jain</strong>
+                <h4>( Front End Developer )</h4>
               </h1>
-
+                <br/>
               <p className="heading-description blockquote">
               I'm a quick learner and problem solver, and I believe 
               I can contribute to your team by bringing fresh perspectives, 
@@ -30,9 +31,6 @@ function Home() {
               I'm confident that I can make valuable contributions to your projects.
               </p>
 
-              <div className="heading-name">
-                <strong className="main-name"> Front End Developer</strong>
-              </div>
             </Col>
 
             <Col md={5}>
