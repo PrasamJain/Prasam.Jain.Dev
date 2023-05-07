@@ -1,7 +1,6 @@
 import React from "react";
 import {
   AiFillGithub,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -29,16 +28,6 @@ function SocialMedia() {
           <FaLinkedinIn className="social-icon" />
         </a>
       </li>
-      {/* <li className="social-icons">
-        <a
-          href="https://www.instagram.com/sunil.yadav84/"
-          target="_blank"
-          rel="noreferrer"
-          className="icon-colour home-social-icons"
-        >
-          <AiFillInstagram className="social-icon" />
-        </a>
-      </li> */}
       <li className="social-icons">
         <a
           href="mailto:prasamjain294@gmail.com"

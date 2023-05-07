@@ -31,7 +31,6 @@ function Home() {
               </p>
 
               <div className="heading-name">
-                {/* <TypeWriter /> */}
                 <strong className="main-name"> Front End Developer</strong>
               </div>
             </Col>
