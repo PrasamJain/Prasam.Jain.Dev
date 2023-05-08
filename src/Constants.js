@@ -6,8 +6,8 @@ export const PROJECTS = [
   {
     image: SHOP,
     name: "ShopHouse Local",
-    technologyUsed: "ReactJs, Javascript, NodeJs, ExpressJs, MongoDB",
-    description: "ShopHouse Local is a team project, developed for connecting local shops to their regular customers by online mode and thus also avoiding hustle of standing in queue in them.",
+    technologyUsed: "HTML/Css, Javascript, NodeJs, ExpressJs, MongoDB",
+    description: "ShopHouse Local is a team project, developed for connecting local shops to their regular customers by online platform and thus also avoiding hustle of standing in queue in them.",
     url: "https://shophouse-local.onrender.com/",
   },
   {

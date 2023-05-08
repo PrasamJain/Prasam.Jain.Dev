@@ -55,7 +55,7 @@ function Education() {
                                 Where I got to learn about cloud computing and earn skillsbadges as well as amazing Google Goodies & stickers.
                             </p>
                             <br />
-                            <h3>RAJYA PURASKAR AWARD BS&G <br /></h3>
+                            <h3>Rajya Puraskar Award BS&G <br /></h3>
                             <p>
                                 This is my biggest achievement in my life that I successfully cracked the
                                 RAJYAPURASKAR award at regional level (Bhopal division 2016) and selected
