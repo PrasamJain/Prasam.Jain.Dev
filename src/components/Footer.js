@@ -3,8 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import SocialMedia from "../components/SocialMedia";
 
 function Footer() {
-  let date = new Date();
-  let year = date.getFullYear();
   return (
     <Container fluid className="footer">
       <Row>
@@ -12,7 +10,6 @@ function Footer() {
           <h3>Developed by Prasam Jain</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          {/* <h3>Copyright © {year} </h3> */}
         </Col>
         <Col md="4" className="footer-body">
           <SocialMedia />
