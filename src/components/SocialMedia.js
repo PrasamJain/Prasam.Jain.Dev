@@ -10,7 +10,7 @@ function SocialMedia() {
     <ul className="home-about-social-links">
       <li className="social-icons">
         <a
-          href="https://github.com/pj1807"
+          href="https://github.com/prasamjain"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"
