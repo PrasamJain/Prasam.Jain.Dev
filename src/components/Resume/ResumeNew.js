@@ -19,7 +19,9 @@ function ResumeNew() {
       <Container fluid className="resume-section">
         <Row className="resume">
           <Document file={pdf}>
-            <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+            <div style={{ border: '1px solid black' }}> {/* Add the border styles here */}
+              <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+            </div>
           </Document>
         </Row>
 
