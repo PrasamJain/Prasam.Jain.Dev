@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/prasam.jpeg";
+import myImg from "../../Assets/prasam.jpg";
 import SocialMedia from "../SocialMedia";
 
 function Home() {

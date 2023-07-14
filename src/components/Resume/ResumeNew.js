@@ -17,14 +17,14 @@ function ResumeNew() {
   return (
     <div>
       <Container fluid className="resume-section">
-        <Row className="resume">
-          <Document file={pdf}>
+        <Row className="resume" >
+          <Document file={pdf} >
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row>
 
-        <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href={pdf} target="_blank" className="download-button">
+        <Row style={{ justifyContent: "center", position: "relative"}}>
+          <Button variant="primary" href={pdf} target="_blank" className="download-button ">
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>

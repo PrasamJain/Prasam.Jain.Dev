@@ -1,5 +1,6 @@
 import SHOP from "./Assets/Projects/shop.jpg";
 import TODO from "./Assets/Projects/todo.jpg";
+import TASK from "./Assets/Projects/textmate.jpg";
 
 
 export const PROJECTS = [
@@ -9,6 +10,13 @@ export const PROJECTS = [
     technologyUsed: "HTML/Css, Javascript, NodeJs, ExpressJs, MongoDB",
     description: "ShopHouse Local is a team project, developed for connecting local shops to their regular customers by online platform and thus also avoiding hustle of standing in queue in them.",
     url: "https://shophouse-local.onrender.com/",
+  },
+  {
+    image: TASK,
+    name: "TextMate",
+    technologyUsed: "ReactJS, Material UI, Tailwind CSS, OpenAI API",
+    description: "Built a Single Page web application that corrects grammar and enhances sentence tone to professional, curious and more. Users just have to enter a sentence and live it to rest on the application.",
+    url: "https://text-mate.vercel.app/",
   },
   {
     image: TODO,
@@ -26,12 +34,13 @@ export const SKILLS = [
   { name: "oops", initialRating: 3 },
   { name: "DBMS", initialRating: 3 },
   { name: "Html", initialRating: 4 },
-  { name: "CSS", initialRating: 4 },
-  { name: "JavaScript", initialRating: 4 },
-  { name: "ReactJs", initialRating: 4 },
+  { name: "CSS", initialRating: 2 },
+  { name: "JavaScript", initialRating: 3 },
+  { name: "ReactJs", initialRating: 3 },
+  { name: "NodeJs", initialRating: 3 },
   { name: "MongoDB (Atlas)", initialRating: 3 },
   { name: "NumPy | Pandas", initialRating: 2 },
-  { name: "Git", initialRating: 4 },
+  { name: "Git", initialRating: 3 },
 ];
 
 export const TOOLS = [
@@ -39,4 +48,7 @@ export const TOOLS = [
   "Git",
   "Codepen",
   "Jupyter Notebook",
-  "Linux Terminal",]
+  "Linux Terminal",
+  "Vercel for Hosting",
+  "MongoDB Atlas for Database",
+]
